@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Build artifacts
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Next.js cache
+.cache/
+
+# Mac system files
+.DS_Store
+
+# Typescript cache
+*.tsbuildinfo
